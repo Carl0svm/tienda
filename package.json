@@ -1,0 +1,23 @@
+{
+  "name": "tienda",
+  "version": "1.0.0",
+  "description": "proyecto final",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carl0svm/tienda.git"
+  },
+  "author": "carlosVelazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carl0svm/tienda/issues"
+  },
+  "homepage": "https://github.com/Carl0svm/tienda#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
