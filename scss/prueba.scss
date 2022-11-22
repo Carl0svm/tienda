@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    color: black;
+    background-color: antiquewhite;
+}
+.darkMode{
+    color: antiquewhite;
+    background-color: black;
+}
+.card{
+    color: black;
+}
+.ofertaColor{
+    color: green
+}
+.precioComun{
+    color: gray
+}
+footer{
+    color: rgb(207, 27, 27);
+    background-color: #a4bb10;
+    text-align: center;
+}
